@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f22e7d-7a61-455d-8a9d-d3f9942bfee4" name="Default Changelist" comment="" />
+    <list default="true" id="b2f22e7d-7a61-455d-8a9d-d3f9942bfee4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,9 +17,10 @@
     <session id="2118929109">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="9" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -61,11 +64,7 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javaScript.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -77,6 +76,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,6 +100,7 @@
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,16 +141,24 @@
       <option name="presentableId" value="Default" />
       <updated>1538016762590</updated>
       <workItem from="1538016763882" duration="7144000" />
-      <workItem from="1538031678931" duration="426000" />
+      <workItem from="1538031678931" duration="777000" />
+      <workItem from="1538032740508" duration="184000" />
+      <workItem from="1538033134238" duration="288000" />
+      <workItem from="1538034095647" duration="57000" />
+      <workItem from="1538034288103" duration="19000" />
+      <workItem from="1538034360497" duration="23000" />
+      <workItem from="1538034442398" duration="89000" />
+      <workItem from="1538047524437" duration="204000" />
+      <workItem from="1538055765005" duration="43000" />
+      <workItem from="1538057757518" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7570000" />
+    <option name="totallyTimeSpent" value="8847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.50729334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -160,8 +171,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32901135" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -184,11 +195,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
